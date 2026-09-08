@@ -1,15 +1,128 @@
-# 💫 About Me:
-Hey there, I'm Abhinav Bajpai<br><br>🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 🎮 Game Developer<br><br>I’m a developer who thrives on building impactful, high-performance systems - from interactive games to intelligent web applications.<br>Currently, I’m diving deeper into the world of Artificial Intelligence and Machine Learning, aiming to create tools that bridge innovation and real-world usability.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Abhinav+Bajpai;AI+Intern+%40+Mstack+AI;Backend+engineer%2C+ex-Minecraft+server+dev;I+build+software+that+leaves+the+screen" alt="typing intro" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abhinavbajpai30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavbajpai30) 
+<br/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhinavbajpai30&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhinavbajpai30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavbajpai30&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<a href="https://abhinavbajpai.com"><img src="https://img.shields.io/badge/abhinavbajpai.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
+<a href="https://linkedin.com/in/abhinavbajpai30"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://leetcode.com/u/Abhinavbajpai30/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="mailto:contact@abhinavbajpai.com"><img src="https://img.shields.io/badge/contact%40abhinavbajpai.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://komarev.com/ghpvc/?username=Abhinavbajpai30&style=flat-square&color=58A6FF&label=profile+views" alt="profile views" />
+
+</div>
+
+<br/>
+
+```console
+abhinav@bengaluru:~$ whoami
+```
+
+```yaml
+name:        Abhinav Bajpai
+role:        AI Intern @ Mstack AI          # turning literature into reaction-level knowledge
+studying:    B.Tech, Artificial Intelligence @ Newton School of Technology × Rishihood (2024–28)
+previously:  SWE Intern @ Exly · Minecraft server dev (TG Network, Gift of Ganga × Lifebuoy)
+based_in:    Bengaluru, India
+origin:      wrote my first real backend to stop players from griefing a Minecraft server
+belief:      a boring pipeline that returns the right thing beats a clever one that sounds right
+```
+
+<br/>
+
+## 🏆 Achievements unlocked
+
+```
+[✔] Turned virtual trash into 15,000+ kg of real river cleanup  ── Gift of Ganga × Lifebuoy · 1M+ views
+[✔] Shipped game systems to 10,000+ players in month one         ── 99.9% uptime, MySQL leaderboards, custom Java plugins
+[✔] Built gaming activations for real brands                     ── Red Bull · Lenovo · OP Gaming · TG Network
+[✔] Ran monetization & paywall logic on a live creator platform  ── Exly
+[▶] Helping an AI-native chemical company go from months to days ── Mstack AI  (in progress)
+[ ] ???                                                          ── next
+```
+
+<br/>
+
+## ⚡ What I'm into right now
+
+The unglamorous engineering that makes AI products actually work — retrieval, evaluation, structured outputs, and knowing when *not* to call the model. Chemistry raised the stakes for me: a hallucinated reaction step isn't a UX bug.
+
+<br/>
+
+## 🧰 Loadout
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,fastapi,nodejs,express,react,vite,tailwind,mongodb,mysql,firebase,aws,docker,linux,cloudflare,git&perline=9" alt="tech stack" />
+
+</div>
+
+```text
+AI / ML       LLM APIs (Gemini) · RAG & retrieval · sentence-transformers · vector search (MongoDB Atlas, Weaviate) · Pandas · NumPy
+Backend       FastAPI · Node.js / Express · REST · MongoDB · MySQL · Firebase
+Frontend      React · Vite · Tailwind · shadcn/ui · React Query
+Infra         AWS EC2 · Docker · Linux · Cloudflare · pytest · Vitest
+```
+
+<br/>
+
+## 🗂️ Selected builds
+
+<details open>
+<summary><b>Gift of Ganga</b> · Java · MySQL · AWS EC2 · Cloudflare · Blender</summary>
+<br/>
+
+A Minecraft recreation of Haridwar and the Ganga built for Lifebuoy. Every piece of virtual trash a player collected was matched by real cleanup on the actual river. Custom garbage-collection plugin, MySQL-backed leaderboards, 50+ optimized 3D models, server-side protection at 99.9% uptime, and a REST API feeding a live cleanup-metrics dashboard.
+
+</details>
+
+<details>
+<summary><b>TG Network</b> · Java · Spigot/Bukkit · MySQL</summary>
+<br/>
+
+Server-side development for one of India's largest creator-run Minecraft networks — plugins, player systems, and the infrastructure hardening that public servers demand.
+
+</details>
+
+<details>
+<summary><b>FindMyRepo</b> · Python · FastAPI · MongoDB Atlas · React · TypeScript</summary>
+<br/>
+
+Side project: natural-language search over GitHub repos using sentence-transformer embeddings and vector search. <a href="https://github.com/dotenv-live/FindMyRepo">Repo</a> · <a href="https://find-my-repo.vercel.app">Live</a>
+
+</details>
+
+<br/>
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinavbajpai30&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=Abhinavbajpai30&theme=github-dark-blue&hide_border=true&background=0d1117" height="165" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavbajpai30&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true" width="92%" alt="activity graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhinavbajpai30&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Abhinavbajpai30/Abhinavbajpai30/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```console
+abhinav@bengaluru:~$ echo "If it involves a model that has to be right, I'm interested."
+abhinav@bengaluru:~$ _
+```
+
+</div>
