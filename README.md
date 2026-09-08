@@ -9,8 +9,6 @@
 <a href="https://leetcode.com/u/Abhinavbajpai30/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 <a href="mailto:contact@abhinavbajpai.com"><img src="https://img.shields.io/badge/contact%40abhinavbajpai.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Abhinavbajpai30&style=flat-square&color=58A6FF&label=profile+views" alt="profile views" />
-
 </div>
 
 <br/>
@@ -47,7 +45,20 @@ belief:      the gap between a demo and a system that holds is where the actual 
 
 ## What I care about
 
-Systems that survive contact with real users. Concurrency, failure modes, abuse, and cost are design inputs, not things you discover in production. In AI work that translates to retrieval, evaluation, structured outputs, and knowing when not to call the model. Chemistry raised the stakes: a hallucinated reaction step isn't a UX bug.
+Software that holds up after launch. Most of what I know about concurrency, abuse, and failure I learned from Minecraft servers, where the users are teenagers with too much time and the load spikes are real. Now I apply the same instincts to AI systems, where the failure mode is a confident wrong answer instead of a crash.
+
+<br/>
+
+## Work
+
+| | Scale | What I actually did |
+|---|---|---|
+| **Mstack AI**, AI Intern, 2026 | AI-native chemical R&D, Lightspeed-backed | LLM pipelines and retrieval over chemical literature. Evaluation harnesses so a wrong reaction step gets caught before a chemist sees it. |
+| **Exly**, SWE Intern, 2025 | Live creator platform, real revenue | Owned the entitlement and paywall layer. Zoom webinar orchestration end to end. High-volume personalized email pipeline that had to survive retries and partial failures. |
+| **TG Network**, 2021 onward | 100K+ player base | Server-side engineering for one of India's largest creator-run Minecraft networks. Player state and persistence, exploit response, hardening a public server against a user base that actively tries to break it. |
+| **Gift of Ganga**, 2023 | 10M+ views, 15,000+ kg of waste removed | Built the whole thing for Lifebuoy at 17. Game systems, leaderboards, player state, protection that held 99.9% uptime under campaign traffic, live cleanup metrics for the brand. |
+| **Brand activations** | Red Bull, Lenovo, OP Gaming | Custom gaming experiences delivered on deadline. |
+| **FindMyRepo** | Side project | Natural-language search over open-source repos with embeddings and vector search. [Repo](https://github.com/dotenv-live/FindMyRepo), [live](https://find-my-repo.vercel.app). |
 
 <br/>
 
@@ -61,34 +72,6 @@ Applied AI    LLM integration, retrieval and RAG, embeddings and vector search, 
 Infra         AWS, Docker, Linux, Cloudflare, deployed and on-call for my own systems since 2021
 Languages     Python, Java, Node.js
 ```
-
-<br/>
-
-## Selected builds
-
-<details open>
-<summary><b>TG Network</b>, public Minecraft network, 100K+ player base</summary>
-<br/>
-
-Server-side engineering for one of India's largest creator-run Minecraft communities. Player systems and persistence, anti-abuse and exploit response, and the infrastructure hardening a public server needs when the user base actively tries to break it.
-
-</details>
-
-<details open>
-<summary><b>Gift of Ganga</b>, Lifebuoy campaign, 10M+ views, 15,000+ kg of waste removed</summary>
-<br/>
-
-A Minecraft recreation of Haridwar and the Ganga where every piece of virtual trash a player collected was matched by real cleanup on the river. Architected the game systems, database-backed leaderboards and player state, server protection that held 99.9% uptime under campaign traffic, and a live cleanup-metrics dashboard for the brand. 10,000+ players in the first month.
-
-</details>
-
-<details>
-<summary><b>FindMyRepo</b>, side project</summary>
-<br/>
-
-Natural-language search over open-source repositories using embeddings and vector search. <a href="https://github.com/dotenv-live/FindMyRepo">Repo</a> / <a href="https://find-my-repo.vercel.app">Live</a>
-
-</details>
 
 <br/>
 
