@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Abhinav+Bajpai;AI+Intern+%40+Mstack+AI;Backend+engineer%2C+ex-Minecraft+server+dev;I+build+software+that+leaves+the+screen" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Abhinav+Bajpai;AI+Intern+%40+Mstack+AI;Backend+%26+systems+engineer;Scaled+game+infrastructure+to+100K%2B+players;I+build+software+that+has+to+hold" alt="typing intro" />
 
 <br/>
 
@@ -21,12 +21,12 @@ abhinav@bengaluru:~$ whoami
 
 ```yaml
 name:        Abhinav Bajpai
-role:        AI Intern @ Mstack AI          # turning literature into reaction-level knowledge
+role:        AI Intern @ Mstack AI          # LLM pipelines and retrieval over chemical literature
 studying:    B.Tech, Artificial Intelligence @ Newton School of Technology x Rishihood (2024-28)
-previously:  SWE Intern @ Exly · Minecraft server dev (TG Network, Gift of Ganga x Lifebuoy)
+previously:  SWE Intern @ Exly · infrastructure for TG Network (100K+ players) · Gift of Ganga x Lifebuoy
 based_in:    Bengaluru, India
-origin:      wrote my first real backend to stop players from griefing a Minecraft server
-belief:      a boring pipeline that returns the right thing beats a clever one that sounds right
+origin:      my first real backend existed to stop 100,000 teenagers from breaking a Minecraft server
+belief:      the gap between a demo and a system that holds is where the actual engineering lives
 ```
 
 <br/>
@@ -34,35 +34,32 @@ belief:      a boring pipeline that returns the right thing beats a clever one t
 ## 🏆 Achievements unlocked
 
 ```
-[✔] Turned virtual trash into 15,000+ kg of real river cleanup  | Gift of Ganga x Lifebuoy · 1M+ views
-[✔] Shipped game systems to 10,000+ players in month one         | 99.9% uptime, MySQL leaderboards, custom Java plugins
-[✔] Built gaming activations for real brands                     | Red Bull · Lenovo · OP Gaming · TG Network
-[✔] Ran monetization & paywall logic on a live creator platform  | Exly
-[▶] Helping an AI-native chemical company go from months to days | Mstack AI  (in progress)
-[ ] ???                                                          | next
+[✔] Ran infrastructure for a 100,000+ player Minecraft network     | TG Network · concurrency, anti-abuse, uptime
+[✔] Turned virtual trash into 15,000+ kg of real river cleanup    | Gift of Ganga x Lifebuoy · 10M+ views
+[✔] Held 99.9% uptime under viral traffic, 10K+ players in month 1 | same project, same server
+[✔] Built gaming activations for real brands                       | Red Bull · Lenovo · OP Gaming
+[✔] Owned the paywall and entitlement layer of a live platform     | Exly · where a bug is lost revenue
+[▶] Helping an AI-native chemical company go from months to days   | Mstack AI  (in progress)
+[ ] ???                                                            | next
 ```
 
 <br/>
 
-## ⚡ What I'm into right now
+## ⚡ What I care about
 
-The unglamorous engineering that makes AI products actually work: retrieval, evaluation, structured outputs, and knowing when *not* to call the model. Chemistry raised the stakes for me. A hallucinated reaction step isn't a UX bug.
+Systems that survive contact with real users. Concurrency, failure modes, abuse, and cost are design inputs, not things you discover in production. In AI work that translates to retrieval, evaluation, structured outputs, and knowing when *not* to call the model. Chemistry raised the stakes: a hallucinated reaction step isn't a UX bug.
 
 <br/>
 
-## 🧰 Loadout
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,fastapi,nodejs,express,react,vite,tailwind,mongodb,mysql,firebase,aws,docker,linux,cloudflare,git&perline=9" alt="tech stack" />
-
-</div>
+## 🧰 Operating range
 
 ```text
-AI / ML       LLM APIs (Gemini) · RAG & retrieval · sentence-transformers · vector search (MongoDB Atlas, Weaviate) · Pandas · NumPy
-Backend       FastAPI · Node.js / Express · REST · MongoDB · MySQL · Firebase
-Frontend      React · Vite · Tailwind · shadcn/ui · React Query
-Infra         AWS EC2 · Docker · Linux · Cloudflare · pytest · Vitest
+Systems       high-concurrency game servers · anti-abuse and DDoS mitigation · uptime under viral load · capacity planning
+Backend       monetization and entitlement logic · event-driven orchestration · high-volume pipelines · failure recovery
+Data          relational and document stores · player state at scale · leaderboards and real-time metrics
+Applied AI    LLM integration · retrieval and RAG · embeddings and vector search · evaluation harnesses
+Infra         AWS · Docker · Linux · Cloudflare · deployed and on-call for my own systems since 2021
+Languages     Python · Java · Node.js
 ```
 
 <br/>
@@ -70,26 +67,26 @@ Infra         AWS EC2 · Docker · Linux · Cloudflare · pytest · Vitest
 ## 🗂️ Selected builds
 
 <details open>
-<summary><b>Gift of Ganga</b> · Java · MySQL · AWS EC2 · Cloudflare · Blender</summary>
+<summary><b>TG Network</b> · public Minecraft network, 100K+ player base</summary>
 <br/>
 
-A Minecraft recreation of Haridwar and the Ganga built for Lifebuoy. Every piece of virtual trash a player collected was matched by real cleanup on the actual river. Custom garbage-collection plugin, MySQL-backed leaderboards, 50+ optimized 3D models, server-side protection at 99.9% uptime, and a REST API feeding a live cleanup-metrics dashboard.
+Server-side engineering for one of India's largest creator-run Minecraft communities. Player systems and persistence, anti-abuse and exploit response, and the infrastructure hardening a public server needs when the user base actively tries to break it.
+
+</details>
+
+<details open>
+<summary><b>Gift of Ganga</b> · Lifebuoy campaign, 10M+ views, 15,000+ kg of waste removed</summary>
+<br/>
+
+A Minecraft recreation of Haridwar and the Ganga where every piece of virtual trash a player collected was matched by real cleanup on the river. Architected the game systems, database-backed leaderboards and player state, server protection that held 99.9% uptime under campaign traffic, and a live cleanup-metrics dashboard for the brand. 10,000+ players in the first month.
 
 </details>
 
 <details>
-<summary><b>TG Network</b> · Java · Spigot/Bukkit · MySQL</summary>
+<summary><b>FindMyRepo</b> · side project</summary>
 <br/>
 
-Server-side development for one of India's largest creator-run Minecraft networks: plugins, player systems, and the infrastructure hardening that public servers demand.
-
-</details>
-
-<details>
-<summary><b>FindMyRepo</b> · Python · FastAPI · MongoDB Atlas · React · TypeScript</summary>
-<br/>
-
-Side project: natural-language search over GitHub repos using sentence-transformer embeddings and vector search. <a href="https://github.com/dotenv-live/FindMyRepo">Repo</a> · <a href="https://find-my-repo.vercel.app">Live</a>
+Natural-language search over open-source repositories using embeddings and vector search. <a href="https://github.com/dotenv-live/FindMyRepo">Repo</a> · <a href="https://find-my-repo.vercel.app">Live</a>
 
 </details>
 
@@ -117,7 +114,7 @@ Side project: natural-language search over GitHub repos using sentence-transform
 <div align="center">
 
 ```console
-abhinav@bengaluru:~$ echo "If it involves a model that has to be right, I'm interested."
+abhinav@bengaluru:~$ echo "If it has to scale, stay up, or be right, I'm interested."
 abhinav@bengaluru:~$ _
 ```
 
